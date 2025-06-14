@@ -1,0 +1,20 @@
+{
+  "name": "sreeharsha-dakkili-portfolio",
+  "version": "1.0.0",
+  "description": "Sreeharsha Dakkili's professional portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website",
+    "sreeharsha-dakkili"
+  ],
+  "author": "Sreeharsha Dakkili",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+} 
